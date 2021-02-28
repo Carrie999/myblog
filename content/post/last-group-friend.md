@@ -3,8 +3,6 @@ title: "致最后的裙友"
 date: 2021-02-08
 lastmod: 2021-02-08
 draft: false
-tags: ["preview", "shortcodes", "tag-6"]
-categories: ["docs", "shortcodes", "index"]
 ---
 
 ## 致裙主
