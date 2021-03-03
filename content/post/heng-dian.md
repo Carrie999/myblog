@@ -44,8 +44,6 @@ lastmod: 2021-03-02
 
 ![This is an image in `static/image` folder.](/image/actor/12.jpg)
 
-![This is an image in `static/image` folder.](/image/actor/13.jpg)
-
 ![This is an image in `static/image` folder.](/image/actor/14.jpg)
 
 ![This is an image in `static/image` folder.](/image/actor/15.jpg)

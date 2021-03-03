@@ -1,7 +1,7 @@
 ---
 title: "Image Preview"
-date: 2021-03-03
-lastmod: 2021-03-04
+date: 2021-3-03
+lastmod: 2021-3-04
 # draft: false
 ---
 
