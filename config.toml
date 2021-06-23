@@ -32,7 +32,7 @@ defaultContentLanguage = "en"           # Default language to use
   name = "blog"
   weight = 10
   identifier = "home"
-  url = "/egoist/post/"
+  url = "/post/"
 
 [params]
   since = "2021"            # Site creation time          # 站点建立时间
