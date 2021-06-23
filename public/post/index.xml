@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Saintgirl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 22:10:48 +0800</lastBuildDate>
     
 	<atom:link href="https://carrie999.github.io/egoist/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://carrie999.github.io/egoist/post/code-man/</guid>
       <description>我很难想象一个追女生一年，被拒绝好几次，还依然爱着对方的深情男孩子。 在未来的某一天，碰到一个喜欢暗恋他很久的女孩子，女孩子向他表白了，他的第</description>
+    </item>
+    
+    <item>
+      <title>永远的白月光，致他喜欢的女孩子</title>
+      <link>https://carrie999.github.io/egoist/post/saudade/</link>
+      <pubDate>Wed, 23 Jun 2021 22:10:48 +0800</pubDate>
+      
+      <guid>https://carrie999.github.io/egoist/post/saudade/</guid>
+      <description>最近可能圣母心大发了。 我本来觉得我是一个无性恋，暧昧过才知道我是异性恋。 也可能是双性恋爱。 没错我还喜欢他，是他教给了我爱情。那个教给你爱情的</description>
     </item>
     
     <item>
@@ -180,15 +189,6 @@
       
       <guid>https://carrie999.github.io/egoist/post/romantic/</guid>
       <description>自己因为对方的冷暴力行为做了很多骚操作。 发了100次0.01 的红包，发了100美金红包，屏蔽github 之后再次申请小号sponsor ，申请</description>
-    </item>
-    
-    <item>
-      <title>我做 UI 设计的那些事儿，为啥从 UI 设计转行前端</title>
-      <link>https://carrie999.github.io/egoist/post/ui-designer/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/ui-designer/</guid>
-      <description>做UI设计我都换了4家公司，来北京的时候，一直在投简历连面试机会都很少。好不容易有面试机会也是失败。 其实我一直觉得UI设计也没啥，我们的简历</description>
     </item>
     
   </channel>
