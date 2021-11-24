@@ -2,193 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Saintgirl</title>
-    <link>https://carrie999.github.io/egoist/post/</link>
+    <link>https://carrie999.github.io/carrie/post/</link>
     <description>Recent content in Posts on Saintgirl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://carrie999.github.io/egoist/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carrie999.github.io/carrie/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>写了三个 vscode 主题</title>
-      <link>https://carrie999.github.io/egoist/post/vscode-theme/</link>
+      <link>https://carrie999.github.io/carrie/post/vscode-theme/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carrie999.github.io/egoist/post/vscode-theme/</guid>
+      <guid>https://carrie999.github.io/carrie/post/vscode-theme/</guid>
       <description>1. Dan React Theme https://marketplace.visualstudio.com/items?itemName=Carrie999.dan-react-theme 2. Cyberpunk 2020 https://marketplace.visualstudio.com/items?itemName=Carrie999.cyberpunk-2020 3. IU 2021 https://marketplace.visualstudio.com/items?itemName=Carrie999.iu Vscode 自定义主题</description>
     </item>
     
     <item>
-      <title>再一次评价 egoist 的冷暴力行为</title>
-      <link>https://carrie999.github.io/egoist/post/code-man/</link>
-      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/code-man/</guid>
-      <description>我很难想象一个追女生一年，被拒绝好几次，还依然爱着对方的深情男孩子。 在未来的某一天，碰到一个喜欢暗恋他很久的女孩子，女孩子向他表白了，他的第</description>
-    </item>
-    
-    <item>
-      <title>我为什么一点都不主动</title>
-      <link>https://carrie999.github.io/egoist/post/love-friend/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/love-friend/</guid>
-      <description>我为什么一点都不主动，当我知道我的好朋友有女朋友一年的时候，我emo了 我的第一感觉是羡慕，羡慕有对象的，如果当初我去勾搭，是不是他就是我的男</description>
-    </item>
-    
-    <item>
-      <title>你无需忧虑</title>
-      <link>https://carrie999.github.io/egoist/post/no-worry/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/no-worry/</guid>
-      <description>你有一份工作 一份收入还不错的工作，别人还很羡慕的工作。多工作几年可以在小城市或者出国买个房子。 你有很多好朋友 他们都在和你一起并肩着，一起经历</description>
-    </item>
-    
-    <item>
-      <title>关于他的性格-怂包加不想承担责任</title>
-      <link>https://carrie999.github.io/egoist/post/irresponsible/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/irresponsible/</guid>
-      <description>他其实很怕去结婚生孩子，他怕付出任何辛苦和劳累。 说话总是给自己留有余地，什么等我创业成功了再说。 害怕喜欢会变成责任，留连分手也不敢说出口。永</description>
-    </item>
-    
-    <item>
-      <title>其实是我不配</title>
-      <link>https://carrie999.github.io/egoist/post/he-is-too-good-for-me/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/he-is-too-good-for-me/</guid>
-      <description>家里总是重男轻女，我被哥哥欺负，冷暴力，吼骂，我什么也不敢说。爸爸一直不在家。 自己似乎就不会社交，大学时期被整个宿舍给冷暴力加排挤，我就租出</description>
-    </item>
-    
-    <item>
-      <title>egoist 骂我的话😕</title>
-      <link>https://carrie999.github.io/egoist/post/dragon-sis/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/dragon-sis/</guid>
-      <description>著名的前端程序员龙姐看我二十六岁还一事无成便给了我一些建议， https://carrie999.github.io/post/open-source-study/ 一上来就说跟人家生孩子，什么你拒绝了我？我爱的不是你而是爱情本身，你就让我冲吧</description>
-    </item>
-    
-    <item>
-      <title>别人的终究是别人的</title>
-      <link>https://carrie999.github.io/egoist/post/others-is-others/</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/others-is-others/</guid>
-      <description>你羡慕有些人自由职业可以赚钱，你不能因为这个优点就去喜欢对方本身，你只是喜欢对方的某一特质。 你不能想太多，搞男女关系。 虽然喜欢心动本就是喜欢</description>
-    </item>
-    
-    <item>
-      <title>真正的喜欢是什么样子的?</title>
-      <link>https://carrie999.github.io/egoist/post/like-somebody/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/like-somebody/</guid>
-      <description>就是很想在他身上蹭，想和他一起睡觉，跟他说话就很开心，跟他待在一个屋子里就很开心，看着他都很开心。 他喜欢的东西你都愿意去喜欢。他想要你的东西</description>
-    </item>
-    
-    <item>
       <title>横店拍戏的日子</title>
-      <link>https://carrie999.github.io/egoist/post/heng-dian/</link>
+      <link>https://carrie999.github.io/carrie/post/heng-dian/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carrie999.github.io/egoist/post/heng-dian/</guid>
+      <guid>https://carrie999.github.io/carrie/post/heng-dian/</guid>
       <description>16年12月17来到横店，到现在20天拍了12天戏。 来横店的人，来自五湖四海，四面八方。 有的因为没有工作，来横店混饭吃。 有的来体验生活，就是</description>
     </item>
     
     <item>
-      <title>真正的事实</title>
-      <link>https://carrie999.github.io/egoist/post/the-real-facts/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/the-real-facts/</guid>
-      <description>他可能根本不懂我为什么喜欢他，因为我觉得他有股做人的血性，这东西好多人没有，不是他的代码写的有多好。 我看不起有些人，他在一家呆了4年，如果月</description>
-    </item>
-    
-    <item>
       <title>文艺青年的美文收集</title>
-      <link>https://carrie999.github.io/egoist/post/beautiful-words/</link>
+      <link>https://carrie999.github.io/carrie/post/beautiful-words/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carrie999.github.io/egoist/post/beautiful-words/</guid>
+      <guid>https://carrie999.github.io/carrie/post/beautiful-words/</guid>
       <description>幸福始终像午后闲闲的时光,不淡不缓的流动。 多年后，再过很多年后回首细看…… 人生总有一段时间是一个人走过，独自的体会人生 那一天我21岁，在我一</description>
     </item>
     
     <item>
-      <title>源码阅读篇章</title>
-      <link>https://carrie999.github.io/egoist/post/open-source-study/</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/open-source-study/</guid>
-      <description>喜欢的 egoist 代码学习 SAO 源码阅读 POI 源码阅读 docute 分析阅读 tsup 学习解读 maho 分析阅读 这次我们来谈一谈快 Vue3 源码 setup 线阅读分析 虽然人生要谨言慎行，但是这次不怕了。 首</description>
-    </item>
-    
-    <item>
       <title>为啥不去日本</title>
-      <link>https://carrie999.github.io/egoist/post/japan/</link>
+      <link>https://carrie999.github.io/carrie/post/japan/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carrie999.github.io/egoist/post/japan/</guid>
+      <guid>https://carrie999.github.io/carrie/post/japan/</guid>
       <description>leader今天问我你是不是也像郭大v那样移民日本，我说没钱。 我是一个很直的人，说到做到的人。 主要是我去了日本也不一定比国内过得舒服。 因为我</description>
     </item>
     
     <item>
-      <title>你无需过于关心他人</title>
-      <link>https://carrie999.github.io/egoist/post/no-need/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/no-need/</guid>
-      <description>他们并不孤单，不要觉得对方孤单，对方孤单会来找你，会表达需求。而不需要你来做些什么，他需要你你就做，不需要就不过度关心。 无论是家人还是朋友都</description>
-    </item>
-    
-    <item>
-      <title>告白与告别</title>
-      <link>https://carrie999.github.io/egoist/post/love-and-goodbye/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/love-and-goodbye/</guid>
-      <description>认识一个人，了解一个人，到最后告别一个人，对我来说真的是一个痛苦的过程。我总是希望自己尽量少地认识人，尽量少地把自己的喜怒哀乐都建立在其他个</description>
-    </item>
-    
-    <item>
-      <title>喜欢一个人真的不是舔</title>
-      <link>https://carrie999.github.io/egoist/post/love-somebody/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/love-somebody/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>我对程序员的看法</title>
-      <link>https://carrie999.github.io/egoist/post/programmer/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://carrie999.github.io/egoist/post/programmer/</guid>
-      <description>程序员最好的工作就是去做开源，尤其是赚钱的开源，是所有程序员最羡慕的。 但是开源程序有个悖论，就是一个开源项目可能被几万人使用，但是写这个项目</description>
-    </item>
-    
-    <item>
       <title>关于自由职业的那些事儿</title>
-      <link>https://carrie999.github.io/egoist/post/freelancer/</link>
+      <link>https://carrie999.github.io/carrie/post/freelancer/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carrie999.github.io/egoist/post/freelancer/</guid>
+      <guid>https://carrie999.github.io/carrie/post/freelancer/</guid>
       <description>一个人就是一支队伍，以前看到qq好友的签名，当时还不明白是什么意思。 自由职业远离了公司和群体组织。 似乎每时每刻都是思考生命的意义，生命的价值</description>
     </item>
     
     <item>
-      <title>那是一种很浪漫的单恋</title>
-      <link>https://carrie999.github.io/egoist/post/romantic/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      <title>我做 UI 设计的那些事儿，为啥从 UI 设计转行前端</title>
+      <link>https://carrie999.github.io/carrie/post/ui-designer/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carrie999.github.io/egoist/post/romantic/</guid>
-      <description>自己因为对方的冷暴力行为做了很多骚操作。 发了100次0.01 的红包，发了100美金红包，屏蔽github 之后再次申请小号sponsor ，申请</description>
+      <guid>https://carrie999.github.io/carrie/post/ui-designer/</guid>
+      <description>做UI设计我都换了4家公司，来北京的时候，一直在投简历连面试机会都很少。好不容易有面试机会也是失败。 其实我一直觉得UI设计也没啥，我们的简历</description>
+    </item>
+    
+    <item>
+      <title>2020总结</title>
+      <link>https://carrie999.github.io/carrie/post/2020/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/2020/</guid>
+      <description>虽然都2月份了，看到别人都在总结2020 我也像样的总结一下吧。 整体总结，我比较俗，赚钱吧 关于代码 3月份入职了抖音，其实我就是想挣个钱，从来就</description>
+    </item>
+    
+    <item>
+      <title>关于人生这件事</title>
+      <link>https://carrie999.github.io/carrie/post/life/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/life/</guid>
+      <description>你拥有属于你的时间，你用这些时间可以去享受，去吃喝玩乐，去快乐。也可以用这些时间去做些事情，无论是创造些令自己和他人高兴的东西还是做些什么事</description>
+    </item>
+    
+    <item>
+      <title>关于股票和爱情里的人性</title>
+      <link>https://carrie999.github.io/carrie/post/love-and-stock/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/love-and-stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>原则</title>
+      <link>https://carrie999.github.io/carrie/post/stock/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我为什么不在字节跳动找一个程序员对象？</title>
+      <link>https://carrie999.github.io/carrie/post/why-not/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/why-not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我为什么不愿意去上班工作？</title>
+      <link>https://carrie999.github.io/carrie/post/why-not-work/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/why-not-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>什么才是大佬中的大佬</title>
+      <link>https://carrie999.github.io/carrie/post/dalao/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/dalao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>比特币是脱离政府控制自由的货币</title>
+      <link>https://carrie999.github.io/carrie/post/btc/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/btc/</guid>
+      <description>目前比特币的波动性做交易似乎不大好，比特币已经具备黄金的属性了。</description>
+    </item>
+    
+    <item>
+      <title>我为什么想辞职？</title>
+      <link>https://carrie999.github.io/carrie/post/leave/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/leave/</guid>
+      <description>我们从高中到大学，一直都在努力的学习和竞争，大学时期又限制于学校，毕业后又在努力的去找工作，生怕找不到工作。似乎时时刻刻都有一根线在绷着。 从</description>
+    </item>
+    
+    <item>
+      <title>我为什么不喜欢打游戏</title>
+      <link>https://carrie999.github.io/carrie/post/play-game/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/play-game/</guid>
+      <description>我相信游戏行业在整个全球未来的发展，一定会越来越好，收益也会越来越多。 但是我就是不想玩那个游戏，我知道它好玩，是第九艺术，沉浸感体验很好。 游</description>
+    </item>
+    
+    <item>
+      <title>最喜欢塞尔达的地方</title>
+      <link>https://carrie999.github.io/carrie/post/zelda/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://carrie999.github.io/carrie/post/zelda/</guid>
+      <description>开塔，一次是很好奇这上面是什么，于是爬了上去，结果竟然有地图。 还有神庙里的机关很有意思，前期可能不明白，后期基本一看就知道怎么解。 神庙的位置</description>
     </item>
     
   </channel>

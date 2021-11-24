@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://carrie999.github.io/egoist/"
+baseURL = "https://carrie999.github.io/carrie/"
 title = "Saintgirl"
 enableRobotsTXT = true
 enableEmoji = true
@@ -30,6 +30,11 @@ defaultContentLanguage = "en"           # Default language to use
 
 [[menu.main]]             # config your menu              # 配置目录
   name = "blog"
+  weight = 10
+  identifier = "home"
+  url = "/post/"
+[[languages.en.menu.main]]
+  name = "Home"
   weight = 10
   identifier = "home"
   url = "/post/"

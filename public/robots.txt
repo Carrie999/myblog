@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://carrie999.github.io/egoist/sitemap.xml
+Sitemap: https://carrie999.github.io/carrie/sitemap.xml

@@ -2,8 +2,7 @@
 title: "再一次评价 egoist 的冷暴力行为"
 date: 2021-02-12
 lastmod: 2021-02-12
-draft: false
-
+draft: true
 weight: 1
 
 ---
